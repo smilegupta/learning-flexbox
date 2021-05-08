@@ -5,3 +5,23 @@ body {
 .flex-container {
     display: flex;
 }
+
+
+.container-row{
+    flex-direction: row;
+
+}
+
+.container-row-reverse{
+    flex-direction: row-reverse;
+
+}
+.container-column{
+    flex-direction: column;
+}
+
+
+.container-column-reverse{
+    flex-direction: column-reverse;
+}
+
