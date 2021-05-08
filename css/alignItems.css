@@ -5,3 +5,17 @@ body {
 .flex-container {
     height: 200px;
 }
+
+.flex-start{
+    align-items: flex-start;
+}
+
+
+.flex-center{
+    align-items: flex-center;
+}
+
+
+.flex-end{
+    align-items: flex-end;
+}

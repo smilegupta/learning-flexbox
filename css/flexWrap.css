@@ -5,3 +5,7 @@ body {
 .flex-container {
     flex-direction: row;
 }
+
+.flex-container-wrap{
+    flex-wrap: wrap;
+}
