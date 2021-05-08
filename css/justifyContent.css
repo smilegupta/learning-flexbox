@@ -5,3 +5,28 @@ body {
 .flex-container {
     flex-direction: row;
 }
+
+
+.flex-end {
+    justify-content: flex-end;
+}
+
+.flex-center{
+    justify-content: center;
+}
+
+.flex-space-around{
+    justify-content: space-around;
+}
+
+.flex-space-enenly{
+    justify-content: space-evenly;
+}
+
+.flex-space-between {
+    justify-content: space-between;
+}
+
+.flex-direction{
+    flex-direction: column;
+}
