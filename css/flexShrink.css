@@ -17,3 +17,9 @@ body {
 .flex-container > * {
     width: 250px;
 }
+
+
+
+.sample2 div:nth-child(2) {
+    flex-shrink: 0;
+}
