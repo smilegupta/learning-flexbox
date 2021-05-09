@@ -8,3 +8,15 @@ body {
     align-items: flex-start;
     flex-wrap: wrap;
 }
+
+
+
+
+
+.align-content{
+    align-content: center;
+}
+
+.align-content-end{
+    align-content: flex-end;
+}
