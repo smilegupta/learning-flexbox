@@ -4,10 +4,6 @@
 
 If you wonder how CSS FLex Box properties work. This Repo can help you.
 
-This Content was Originally made by TheLeanProgrammer.
-You can find a detailed videos of the tutorial  [here](https://www.youtube.com/playlist?list=PLGyA74h_S9NrkKnaIrYeOolru4EakosHY)
-
-
 ### Still need help?
 
 ```
